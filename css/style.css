@@ -876,7 +876,7 @@ p{
 }
 
 .btn-primary {
-  background-color: #007bff;
+  background-color: green;
   border-color: #007bff;
   padding: 10px 20px;
   font-size: 18px;
@@ -951,9 +951,10 @@ news_section {
   max-width: 600px;
   margin: 0 auto;
   padding: 20px;
-  background-color: #f7f7f7;
+  background-color: #333;
   border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  margin-top: 1px;
 }
 
 .form-group {
@@ -963,12 +964,16 @@ news_section {
 .form-group label {
   display: block;
   margin-bottom: 10px;
+  color: whitesmoke;
+  font-weight: bold;
+  text-align: center;
+  font-size: 19px;
 }
 
 .form-group input, .form-group textarea {
   width: 100%;
   padding: 10px;
-  border: 1px solid #ccc;
+  border: 2px solid #ccc;
   border-radius: 5px;
 }
 
@@ -991,3 +996,15 @@ news_section {
   color: #fff;
 }
 
+.ndekha1{
+  text-align: center;
+  color: darkgoldenrod;
+  margin-bottom: 5px;
+  font-size: 35px;
+}
+
+.ndekha2{
+  text-align: center;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
