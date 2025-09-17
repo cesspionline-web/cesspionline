@@ -876,7 +876,7 @@ p{
 }
 
 .btn-primary {
-  background-color: green;
+  background-color: blue;
   border-color: #007bff;
   padding: 10px 20px;
   font-size: 18px;
@@ -973,7 +973,7 @@ news_section {
 .form-group input, .form-group textarea {
   width: 100%;
   padding: 10px;
-  border: 2px solid #ccc;
+  border: 1px solid #ccc;
   border-radius: 5px;
 }
 
@@ -1006,5 +1006,5 @@ news_section {
 .ndekha2{
   text-align: center;
   margin-bottom: 5px;
-  font-size: 18px;
+  font-size: 15px;
 }
